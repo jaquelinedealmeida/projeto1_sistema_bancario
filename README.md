@@ -1,9 +1,9 @@
 # PROJETO SISTEMA BANCÁRIO # 
 
-## Objetivo ##: 
+## Objetivo: 
    Desenvolver um sistema de depósito e saque bancário
 
-### Operações ###
+### Operações
 
 *Operação Depósito* 
 
